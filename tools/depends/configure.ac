@@ -462,7 +462,7 @@ case $host in
 
         case $platform_os in
           darwin_embedded)
-            target_minver="11.0"
+            target_minver="9.0"
           ;;
           osx)
             target_minver="11.0"
